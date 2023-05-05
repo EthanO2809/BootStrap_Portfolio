@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    overflow: hidden;
+}
+
+.gif1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+.gif4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 55px;
+}
+
